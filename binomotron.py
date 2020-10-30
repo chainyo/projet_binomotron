@@ -11,8 +11,8 @@ Définition des fonctions du programme
 # Fonction pour se connecter à la base de données
 def connect_bdd () :
     config = {
-      'user': 'thomas',
-      'password': 'lolmysql',
+      'user': 'root',
+      'password': 'root',
       'host': 'localhost',
       'port': '8081',
       'database': 'projet_binomotron',
